@@ -44,7 +44,7 @@ git clone https://github.com/YazdanRe/RL-Project-Robotic-Arm-Control.git
 cd RL-Project-Robotic-Arm-Control
 ```
 
-### 2. Create a Virtual Environment (Recommended)
+### 2. Create a Virtual Environment
 
 ```bash
 # Using Python venv
